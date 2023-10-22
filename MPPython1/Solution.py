@@ -5,7 +5,7 @@ from Simulator import Simulator
 import sys
 
 class Solution:
-
+    # We Rock Crazy Smart Asians
     def __init__(self, problem, isp, graph, info):
         self.problem = problem
         self.isp = isp
