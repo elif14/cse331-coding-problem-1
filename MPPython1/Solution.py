@@ -6,6 +6,8 @@ import sys
 
 class Solution:
     # We Rock Crazy Smart Asians
+    # Kinda confused ngl
+
     def __init__(self, problem, isp, graph, info):
         self.problem = problem
         self.isp = isp
