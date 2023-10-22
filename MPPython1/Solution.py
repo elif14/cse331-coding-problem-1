@@ -7,6 +7,7 @@ import sys
 class Solution:
     # We Rock Crazy Smart Asians
     # Kinda confused ngl
+    # Monday Tuesday Wednesday Thursday Friday Saturday Sunday
 
     def __init__(self, problem, isp, graph, info):
         self.problem = problem
